@@ -1,0 +1,6 @@
+{
+  "name": "Charlotte InAlignment - Private Reformer Pilates",
+  "description": "Safe private reformer Pilates studio for bump and baby in Eccles, Manchester. Alignment-focused prenatal and postnatal Pilates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
